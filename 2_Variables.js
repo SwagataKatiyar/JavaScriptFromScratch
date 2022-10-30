@@ -1,9 +1,9 @@
 //we can change variable type from one to another but this can't happen in other laguages and they throw error.
 
-var a= 67; //var is used to declare a variable
-console.log(a);
-a= "Swagata";
-console.log(a);
+var an= 67; //var is used to declare a variable
+console.log(an);
+an= "Swagata";
+console.log(an);
 
 let a= 64; //Here, 64 is literal (constant value), "=" is assignment operator, "let" is used to declare and variable and a is a "identifier" 
 
