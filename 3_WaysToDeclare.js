@@ -22,6 +22,8 @@ Const:
 
 4. Variables defined with const have Block Scope.
 
+5. Const must be assigned at time of declaration of variable
+
 */
 
 const PI = 3.141592653589793;
